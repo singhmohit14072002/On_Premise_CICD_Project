@@ -1,0 +1,14 @@
+# DevOps Animation Application Requirements
+# All dependencies are built-in Python modules, no external packages needed!
+
+# Built-in modules used:
+# - tkinter (GUI framework)
+# - math (mathematical functions)
+# - time (time utilities)
+# - threading (multithreading)
+# - random (random number generation)
+# - datetime (date and time handling)
+# - json (JSON data handling)
+
+# No external dependencies required!
+# This application uses only Python standard library modules. 
